@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/projet_arbitrage/static/css/main.dbf5f393.css",
-    "main.js": "/projet_arbitrage/static/js/main.1a2405ad.js",
+    "main.js": "/projet_arbitrage/static/js/main.516834de.js",
     "static/media/logo.png": "/projet_arbitrage/static/media/logo.c70797ce496d85dc9d67.png",
     "index.html": "/projet_arbitrage/index.html",
     "main.dbf5f393.css.map": "/projet_arbitrage/static/css/main.dbf5f393.css.map",
-    "main.1a2405ad.js.map": "/projet_arbitrage/static/js/main.1a2405ad.js.map"
+    "main.516834de.js.map": "/projet_arbitrage/static/js/main.516834de.js.map"
   },
   "entrypoints": [
     "static/css/main.dbf5f393.css",
-    "static/js/main.1a2405ad.js"
+    "static/js/main.516834de.js"
   ]
 }
